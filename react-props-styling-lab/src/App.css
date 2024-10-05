@@ -1,0 +1,12 @@
+/* src/App.css */
+.greeting {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border: 1px solid #ddd;
+  text-align: center;
+  margin-bottom: 10px;
+}
+body{
+  align-items: center;
+  justify-content: center;
+}
